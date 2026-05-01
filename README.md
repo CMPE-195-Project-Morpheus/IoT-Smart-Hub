@@ -326,6 +326,4 @@ Once configured, HA built-in commands are handled natively per the [built-in voi
 
 ## Authors
 
-Developed as a CMPE 195B Senior Project.
-
-For questions or support, open a GitHub Issue on this repository.
+This project was developed as part of **CMPE 195 — Senior Design Project** at San Jose State University.
