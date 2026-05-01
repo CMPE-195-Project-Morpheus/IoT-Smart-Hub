@@ -321,9 +321,3 @@ Once configured, HA built-in commands are handled natively per the [built-in voi
     └── content-card-example.js
 ```
 ---
-
----
-
-## Authors
-
-This project was developed as part of **CMPE 195 — Senior Design Project** at San Jose State University.
